@@ -1,0 +1,6 @@
+c:\users\浩司\documents\visual studio 2015\Projects\testFody2\testFody2\bin\Debug\testFody2.exe.config
+c:\users\浩司\documents\visual studio 2015\Projects\testFody2\testFody2\bin\Debug\testFody2.exe
+c:\users\浩司\documents\visual studio 2015\Projects\testFody2\testFody2\bin\Debug\testFody2.pdb
+c:\users\浩司\documents\visual studio 2015\Projects\testFody2\testFody2\obj\Debug\testFody2.csprojResolveAssemblyReference.cache
+c:\users\浩司\documents\visual studio 2015\Projects\testFody2\testFody2\obj\Debug\testFody2.exe
+c:\users\浩司\documents\visual studio 2015\Projects\testFody2\testFody2\obj\Debug\testFody2.pdb
